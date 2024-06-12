@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,    //setting to false currently
+    "skipLibCheck": true,
+    "outDir": "dist",  //does not create js file just obove but in a dist folder
+    // "noImplicitAny": false   //not that strict
+
+  }
+}
